@@ -1,0 +1,47 @@
+.nav{
+    background-color: darkblue;
+    color: white;
+    height: 50px;
+}
+ .image{
+     margin-bottom: 60px;
+ }
+body{
+    margin: 10px;
+    background-color: lightgray!important;
+    
+}
+.progress{
+    height: 38px !important;
+}
+.para-1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+footer{
+    height: 200px;
+    background-color:darkblue;
+    color:white;
+    text-align:center;
+    padding-top: 180px!important;
+    
+
+}
+/* .footr{
+    color:white;
+    text-align: center;
+    padding-top: 20px;
+} */
+.carousel {
+    margin-bottom: 4rem;
+  }
+  .carousel-caption {
+    bottom: 3rem;
+    z-index: 10;
+  }
+  .carousel-item {
+    height: 32rem;
+  }
+  
+  .header{
+      color: black;
+  }
